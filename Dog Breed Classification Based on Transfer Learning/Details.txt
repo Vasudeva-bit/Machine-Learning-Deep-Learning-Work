@@ -1,0 +1,4 @@
+# Dog Breed identification
+Identification of dog's breed in an image using the Tensorflow hub API  for transfer learning.
+Visit me on http://vasudevak.pythonanywhere.com/
+Contact me on: venus.kilaru@gmail.com and https://www.linkedin.com/in/vasudeva-kilaru/

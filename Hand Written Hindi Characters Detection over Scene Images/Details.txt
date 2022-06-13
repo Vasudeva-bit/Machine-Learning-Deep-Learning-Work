@@ -1,0 +1,5 @@
+The project is all about a deep learning model to detect the presence of a Hindi character on scene image. The model is built based on Convolutional Neural Networks using TensorFlow API.
+The image with hand written hindi characters are labelled with '1' and images without hindi characters are labelled with class '0'. The example of training image data distribution is availabe in images directory with examples of both classes.
+The data used in the project is available in the drive link https://drive.google.com/drive/folders/1O8TT0s4zMyiI6zR-biVRoiLiAUy-W1H0?usp=sharing
+Visit me on http://vasudevak.pythonanywhere.com/
+Contact me on: venus.kilaru@gmail.com and https://www.linkedin.com/in/vasudeva-kilaru/

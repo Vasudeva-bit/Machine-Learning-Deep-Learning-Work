@@ -1,0 +1,4 @@
+# Heart Disease Prediction
+Predicting the chances of heart disease based on old medical records of patients.
+Visit me on http://vasudevak.pythonanywhere.com/
+Contact me on: venus.kilaru@gmail.com and https://www.linkedin.com/in/vasudeva-kilaru/
